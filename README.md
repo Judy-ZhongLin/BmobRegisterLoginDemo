@@ -1,0 +1,2 @@
+# BmobRegisterLoginDemo
+以Bmob为云端储存平台的demo
